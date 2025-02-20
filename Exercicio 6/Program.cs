@@ -1,4 +1,6 @@
-﻿namespace Exercicio_6
+﻿using System.Diagnostics;
+
+namespace Exercicio_6
 {
     internal class Program
     {
@@ -21,6 +23,7 @@
 
             Console.WriteLine($@"
                     O Valor total {nome} é R$ {total:f2}");
+            
 
         }
     }

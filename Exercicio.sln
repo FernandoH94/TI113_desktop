@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio", "Exercicio\Exercicio.csproj", "{70FF9C7D-5D30-47FF-89F3-2B8E1779FB57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio", "Exercicio\Exercicio.csproj", "{70FF9C7D-5D30-47FF-89F3-2B8E1779FB57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 2", "Exercicio 2\Exercicio 2.csproj", "{30C064EC-A9D4-4C31-AE3C-A0AC119742E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio 2", "Exercicio 2\Exercicio 2.csproj", "{30C064EC-A9D4-4C31-AE3C-A0AC119742E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 3", "Exercicio 3\Exercicio 3.csproj", "{DA62757D-A56E-4DB6-91BD-1135D561F3ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio 3", "Exercicio 3\Exercicio 3.csproj", "{DA62757D-A56E-4DB6-91BD-1135D561F3ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 4", "Exercicio 4\Exercicio 4.csproj", "{A2EFD0AC-32D9-483A-A227-8280AC9A658F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio 4", "Exercicio 4\Exercicio 4.csproj", "{A2EFD0AC-32D9-483A-A227-8280AC9A658F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 5", "Exercicio 5\Exercicio 5.csproj", "{36C4E02D-731A-4009-B079-6EDB9761028C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio 5", "Exercicio 5\Exercicio 5.csproj", "{36C4E02D-731A-4009-B079-6EDB9761028C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 6", "Exercicio 6\Exercicio 6.csproj", "{A7A17AF5-1702-43DA-8302-2F46D5832960}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio 6", "Exercicio 6\Exercicio 6.csproj", "{A7A17AF5-1702-43DA-8302-2F46D5832960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio 7", "exercicio 7\exercicio 7.csproj", "{560152FC-D148-4E2A-9483-A979AB667B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio 8", "exercicio 8\exercicio 8.csproj", "{1A03C218-3BF0-4979-8276-A6854B0A4228}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{A7A17AF5-1702-43DA-8302-2F46D5832960}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7A17AF5-1702-43DA-8302-2F46D5832960}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7A17AF5-1702-43DA-8302-2F46D5832960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560152FC-D148-4E2A-9483-A979AB667B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560152FC-D148-4E2A-9483-A979AB667B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560152FC-D148-4E2A-9483-A979AB667B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560152FC-D148-4E2A-9483-A979AB667B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A03C218-3BF0-4979-8276-A6854B0A4228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A03C218-3BF0-4979-8276-A6854B0A4228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A03C218-3BF0-4979-8276-A6854B0A4228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A03C218-3BF0-4979-8276-A6854B0A4228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
